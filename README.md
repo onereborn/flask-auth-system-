@@ -15,7 +15,7 @@ A simple Python **Flask authentication system** with:
    git clone https://github.com/onereborn/flask-auth-system.git
    cd flask-auth-system
 
-Installation Instructions:
+##  Installation Instructions:
 
 git clone https://github.com/onereborn/flask-auth-system-.git
 cd flask-auth-system-
